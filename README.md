@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fernando Rodríguez 
-🛡️ Cybersecurity Analyst | SOC/SIEM Specialist | Threat Detection & Response
 <a href="www.linkedin.com/in/fernando-rodríguez-lópez-87baa9162"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+🛡️ Cybersecurity Analyst | SOC/SIEM Specialist | Threat Detection & Response
 
 🔍 Core Skills:
   - Threat detection and correlation using SIEM tools.
