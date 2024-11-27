@@ -7,9 +7,10 @@ I am a cybersecurity analyst with hands-on experience in Security Operations Cen
   - Malware analysis (e.g., PDF document dissection, reverse engineering).
   - Incident response and threat hunting.
   - Proactive defense strategies to protect critical infrastructure.
-🛠️ Core Skills & Tools:
+    
+🛠️ Technologies & Tools I Use:
   - SIEM platforms: Splunk, QRadar
   - Endpoint protection & EDR: Cortex XDR, CrowdStrike
   - Network security: Fortinet, Palo Alto Networks
 
-💡 Passionate about improving cybersecurity workflows, automating threat detection, and empowering teams to defend against evolving cyber threats. 
+
