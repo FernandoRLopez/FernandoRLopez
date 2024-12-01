@@ -15,5 +15,8 @@
 
 
 
-<a href="www.linkedin.com/in/fernando-rodriguez-lopez-87baa9162"></a>
+<a href="https://www.linkedin.com/in/fernando-rodriguez-lopez-87baa9162" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
